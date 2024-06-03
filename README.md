@@ -1,7 +1,7 @@
 # Football Results Simulator 2017
 
 This app allows you to simulate football results. All you need is to know the relative class of the teams involved.
-
+ 
 PLAY HERE: http://scoresim.ilya.online
 
 ## Fine-tune match parameters
